@@ -4,7 +4,7 @@
 
 TNTCloud机场采用Trojan协议，IPLC全专线节点，所有套餐不限速无倍率，所有套餐只有流量区别。支持解锁Netflix、Disney+、HBO、HUGO流媒体等，也能解锁Tiktok、ChatGPT、Copilot、Gemini等AI服务。
 
-TNTCloud官网：https://finalgo.xyz/535u7
+TNTCloud官网：https://finalgo.xyz/MIRTeW
 
 TNTCloud机场晚高峰不限速、不限制客户端，支持 Clash、Singbox、Shadowrocket Stash、urge 等客户端，支付方式：支付宝、微信。
 
